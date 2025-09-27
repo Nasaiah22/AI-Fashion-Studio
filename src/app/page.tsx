@@ -63,7 +63,8 @@ export default function Home() {
       {/* Replace the href with your real form URL */}
       <div style={formWrap}>
         <input type="email" placeholder="Enter your email" style={input} />
-        <a href="https://form.typeform.com/to/XXXX" target="_blank" rel="noreferrer">
+        <a href="https://form.typeform.com/to/iI6wyYLr
+    " target="_blank" rel="noreferrer">
           <button style={button}>Join Waitlist</button>
         </a>
       </div>
